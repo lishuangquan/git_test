@@ -5,5 +5,10 @@ public class test {
         System.out.println("hahahahahhaahahahh");
         System.out.println("hahahahahhaahahahh");
         System.out.println("hahahahahhaahahahh");
+
+
+        System.out.println(1+1);
     }
+
+
 }
